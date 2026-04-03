@@ -60,12 +60,18 @@ ShopSphere/
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
+<img width="612" height="491" alt="image" src="https://github.com/user-attachments/assets/4da1eef7-5b96-4258-bbda-642e2a515d62" />
+
 ![Dashboard](screenshots/dashboard.png)
 
 ### 🛍 Browse Products
+<img width="603" height="678" alt="image" src="https://github.com/user-attachments/assets/37c76f2c-5214-40b0-b972-bce796aa1da0" />
+
 ![Products](screenshots/products.png)
 
 ### 🛒 Cart Page
+<img width="545" height="613" alt="image" src="https://github.com/user-attachments/assets/3c5f21f8-624a-4659-9516-449410ccc07c" />
+
 ![Cart](screenshots/cart.png)
 
 ---
@@ -74,14 +80,7 @@ ShopSphere/
 
 ```bash
 git clone https://github.com/mayankkmk77/ShopSphere.git
-
-
-
 ---
-
-# 🔥 OPTIONAL (ADD BADGES – NEXT LEVEL)
-
-Add this **at the top (below title)** 👇
 
 ```markdown
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
