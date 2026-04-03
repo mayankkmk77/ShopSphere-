@@ -80,7 +80,25 @@ ShopSphere/
 git clone https://github.com/mayankkmk77/ShopSphere.git
 ---
 
-markdown
+## ✨ Highlights
+
+- Clean and modular code structure (model, ui, util)
+- Interactive GUI built with Java Swing
+- Real-world application flow (cart + checkout)
+- File-based data persistence
+
+---
+
+## 📚 What I Learned
+
+- Designing desktop UI using Java Swing
+- Managing application state (cart system)
+- Handling file-based storage
+- Structuring a project into multiple layers
+
+---
+
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/GUI-Swing-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
