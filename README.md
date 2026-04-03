@@ -1,7 +1,9 @@
 # 🛒 ShopSphere
 
-ShopSphere is a desktop-based e-commerce application built using Java Swing.  
-It simulates a basic shopping experience where users can browse products, manage a cart, and perform a simple checkout.
+<p align="center">
+  A simple and clean <b>Java Swing-based E-commerce Desktop Application</b><br>
+  Built to understand GUI design, application flow, and core Java concepts.
+</p>
 
 ---
 
@@ -19,7 +21,7 @@ It simulates a basic shopping experience where users can browse products, manage
 
 - **Java**
 - **Java Swing (GUI)**
-- **File Handling (for data persistence)**
+- **File Handling (Serialization)**
 
 ---
 
@@ -29,42 +31,46 @@ ShopSphere/
 │
 ├── src/
 │ └── com/shopsphere/
-│ │
-│ ├── model/ # Data layer
+│ ├── model/
 │ │ ├── Product.java
 │ │ └── Cart.java
 │ │
-│ ├── ui/ # UI screens
+│ ├── ui/
 │ │ ├── HomePage.java
 │ │ ├── AddProductPage.java
 │ │ ├── BrowseProductsPage.java
 │ │ └── MyCartPage.java
 │ │
-│ ├── util/ # Utility logic
+│ ├── util/
 │ │ └── FileHandler.java
 │ │
-│ └── Main.java # Entry point
+│ └── Main.java
 │
-├── screenshots/ # GitHub visuals
+├── screenshots/
 │ ├── dashboard.png
 │ ├── products.png
 │ └── cart.png
 │
 ├── README.md
-├── .gitignore
-└── products.dat
+└── .gitignore
 
 
+---
+
+## 📸 Screenshots
+
+### 🏠 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🛍 Browse Products
+![Products](screenshots/products.png)
+
+### 🛒 Cart Page
+![Cart](screenshots/cart.png)
 
 ---
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mayankkmk77/ShopSphere-.git
-   
-2. Open in IntelliJ IDEA (or any Java IDE)
-
-3. Run:
-   Main.java
+```bash
+git clone https://github.com/YOUR-USERNAME/ShopSphere.git
