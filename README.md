@@ -28,31 +28,31 @@ It simulates a basic shopping experience where users can browse products, manage
 ShopSphere/
 │
 ├── src/
-│   └── com/shopsphere/
-│       │
-│       ├── model/                  # Data layer
-│       │   ├── Product.java
-│       │   └── Cart.java
-│       │
-│       ├── ui/                     # All UI screens
-│       │   ├── HomePage.java
-│       │   ├── AddProductPage.java
-│       │   ├── BrowseProductsPage.java
-│       │   └── MyCartPage.java
-│       │
-│       ├── util/                   # Utility logic
-│       │   └── FileHandler.java
-│       │
-│       └── Main.java               # Entry point
+│ └── com/shopsphere/
+│ │
+│ ├── model/ # Data layer
+│ │ ├── Product.java
+│ │ └── Cart.java
+│ │
+│ ├── ui/ # UI screens
+│ │ ├── HomePage.java
+│ │ ├── AddProductPage.java
+│ │ ├── BrowseProductsPage.java
+│ │ └── MyCartPage.java
+│ │
+│ ├── util/ # Utility logic
+│ │ └── FileHandler.java
+│ │
+│ └── Main.java # Entry point
 │
-├── screenshots/                    # GitHub visuals
-│   ├── dashboard.png
-│   ├── products.png
-│   └── cart.png
+├── screenshots/ # GitHub visuals
+│ ├── dashboard.png
+│ ├── products.png
+│ └── cart.png
 │
-├── README.md                       # Project description
-├── .gitignore                      # Ignore unnecessary files
-└── products.dat                    # (ignored locally, not pushed)
+├── README.md
+├── .gitignore
+└── products.dat
 
 
 
