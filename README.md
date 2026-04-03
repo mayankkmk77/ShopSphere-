@@ -70,13 +70,19 @@ ShopSphere/
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="612" height="491" alt="Screenshot 2026-04-04 022834" src="https://github.com/user-attachments/assets/4770ef88-00ce-4b98-bb5c-63d3f6b7d6b0" />
+
+<p align="center"> ![Dashboard](screenshots/dashboard.png) </p>
 
 ### 🛍 Browse Products
+<img width="603" height="678" alt="Screenshot 2026-04-04 023028" src="https://github.com/user-attachments/assets/d49f2930-c222-4fe5-b36b-2b7481e31b80" />
+
 ![Products](screenshots/products.png)
 
 ### 🛒 Cart Page
-![Cart](screenshots/cart.png)
+<img width="545" height="613" alt="Screenshot 2026-04-04 023108" src="https://github.com/user-attachments/assets/9e9bb579-0ef7-4436-ab6d-6eb9eb4f21f6" />
+
+<p align="center">![Cart](screenshots/cart.png)</p>
 
 ---
 
@@ -93,26 +99,26 @@ File-based data persistence
 
 ---
 
-📚 What I Learned
-Designing desktop UI using Java Swing
-Managing application state (cart system)
-Handling file-based storage
-Structuring a project into multiple layers
+### 📚 What I Learned
+- Designing desktop UI using Java Swing
+- Managing application state (cart system)
+- Handling file-based storage
+- Structuring a project into multiple layers
 
 ---
 
-🔮 Future Improvements
-Database integration (MySQL)
-User authentication system
-Improved UI/UX
-Product image enhancements
+### 🔮 Future Improvements
+- Database integration (MySQL)
+- User authentication system
+- Improved UI/UX
+- Product image enhancements
 
 ---
-👨‍💻 Author
+### 👨‍💻 Author
 Mayank Mihir
 
 ---
 
-⭐ Support
+### ⭐ Support
 
 If you found this useful, consider giving it a ⭐ on GitHub!
