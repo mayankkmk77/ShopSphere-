@@ -73,4 +73,17 @@ ShopSphere/
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ShopSphere.git
+git clone https://github.com/mayankkmk77/ShopSphere.git
+
+
+
+---
+
+# 🔥 OPTIONAL (ADD BADGES – NEXT LEVEL)
+
+Add this **at the top (below title)** 👇
+
+```markdown
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/GUI-Swing-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
