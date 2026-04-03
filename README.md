@@ -1,19 +1,29 @@
 # 🛒 ShopSphere
 
 <p align="center">
-  A simple and clean <b>Java Swing-based E-commerce Desktop Application</b><br>
-  Built to understand GUI design, application flow, and core Java concepts.
+  <b>Java Swing E-commerce Desktop Application</b><br>
+  A clean and simple project to explore GUI development and application flow in Java.
+</p>
+
+<p align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/GUI-Java%20Swing-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Made By](https://img.shields.io/badge/Made%20By-Mayank-blueviolet?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+
 </p>
 
 ---
 
 ## 🚀 Features
 
-- 🧾 Add and manage products
-- 🔍 Search and browse products
-- 🛒 Add items to cart
-- ❌ Remove items from cart
-- 💳 Checkout with total price calculation
+- 🧾 Add and manage products  
+- 🔍 Search and browse products  
+- 🛒 Add items to cart  
+- ❌ Remove items from cart  
+- 💳 Checkout with total price calculation  
 
 ---
 
@@ -60,45 +70,49 @@ ShopSphere/
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-<img width="612" height="491" alt="image" src="https://github.com/user-attachments/assets/4da1eef7-5b96-4258-bbda-642e2a515d62" />
-
 ![Dashboard](screenshots/dashboard.png)
 
 ### 🛍 Browse Products
-<img width="603" height="678" alt="image" src="https://github.com/user-attachments/assets/37c76f2c-5214-40b0-b972-bce796aa1da0" />
-
 ![Products](screenshots/products.png)
 
 ### 🛒 Cart Page
-<img width="545" height="613" alt="image" src="https://github.com/user-attachments/assets/3c5f21f8-624a-4659-9516-449410ccc07c" />
-
 ![Cart](screenshots/cart.png)
 
 ---
 
-## ▶️ How to Run: 
+## ▶️ How to Run:
 git clone https://github.com/mayankkmk77/ShopSphere.git
----
-
-## ✨ Highlights
-
-- Clean and modular code structure (model, ui, util)
-- Interactive GUI built with Java Swing
-- Real-world application flow (cart + checkout)
-- File-based data persistence
 
 ---
 
-## 📚 What I Learned
-
-- Designing desktop UI using Java Swing
-- Managing application state (cart system)
-- Handling file-based storage
-- Structuring a project into multiple layers
+✨ Highlights
+Clean and modular code structure (model, ui, util)
+Interactive GUI built with Java Swing
+Real-world application flow (cart + checkout)
+File-based data persistence
 
 ---
 
+📚 What I Learned
+Designing desktop UI using Java Swing
+Managing application state (cart system)
+Handling file-based storage
+Structuring a project into multiple layers
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Swing](https://img.shields.io/badge/GUI-Swing-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+---
+
+🔮 Future Improvements
+Database integration (MySQL)
+User authentication system
+Improved UI/UX
+Product image enhancements
+
+---
+👨‍💻 Author
+Mayank Mihir
+
+---
+
+⭐ Support
+
+If you found this useful, consider giving it a ⭐ on GitHub!
