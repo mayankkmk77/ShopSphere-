@@ -37,33 +37,34 @@
 
 ## 📂 Project Structure
 
+```plaintext
 ShopSphere/
 │
 ├── src/
-│ └── com/shopsphere/
-│ ├── model/
-│ │ ├── Product.java
-│ │ └── Cart.java
-│ │
-│ ├── ui/
-│ │ ├── HomePage.java
-│ │ ├── AddProductPage.java
-│ │ ├── BrowseProductsPage.java
-│ │ └── MyCartPage.java
-│ │
-│ ├── util/
-│ │ └── FileHandler.java
-│ │
-│ └── Main.java
+│   └── com/shopsphere/
+│       ├── model/
+│       │   ├── Product.java
+│       │   └── Cart.java
+│       │
+│       ├── ui/
+│       │   ├── HomePage.java
+│       │   ├── AddProductPage.java
+│       │   ├── BrowseProductsPage.java
+│       │   └── MyCartPage.java
+│       │
+│       ├── util/
+│       │   └── FileHandler.java
+│       │
+│       └── Main.java
 │
 ├── screenshots/
-│ ├── dashboard.png
-│ ├── products.png
-│ └── cart.png
+│   ├── dashboard.png
+│   ├── products.png
+│   └── cart.png
 │
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
